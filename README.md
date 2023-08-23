@@ -1,7 +1,7 @@
 # Polyp-SAM
 The official PyTorch code for the project "[Polyp-SAM++: Can A Text Guided SAM Perform Better for Polyp Segmentation?](https://doi.org/10.48550/arXiv.2308.06623)". 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](Arch_Polyp-SAM++.png?raw=true)
 
 ## Run in Colab
 Open the Poly-SAM++.ipynb file in Google Colab and play with it!
