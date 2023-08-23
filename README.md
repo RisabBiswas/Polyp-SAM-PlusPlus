@@ -10,7 +10,7 @@ The official PyTorch code for the project [**Polyp-SAM++: Can A Text Guided SAM 
 ![alt text](Polyp-SAM_Results_2.png?raw=true)
 
 ## Run in Colab
-Open the **Poly-SAM++.ipynb** file in Google Colab and play with it!
+Open the **[Poly-SAM++.ipynb]**(Polyp-SAM++.ipynb) file in Google Colab and play with it!
 
 ## Dataset -
 * **KVASIR-SEG**: [Link](https://datasets.simula.no/kvasir-seg/) 
