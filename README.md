@@ -8,7 +8,7 @@ The official PyTorch code for the project [**Polyp-SAM++: Can A Text Guided SAM 
 ![alt text](Polyp-SAM_Results_2.png?raw=true)
 
 ## Run in Colab
-Open the Poly-SAM++.ipynb file in Google Colab and play with it!
+Open the **Poly-SAM++.ipynb** file in Google Colab and play with it!
 
 ## Dataset -
 **KVASIR-SEG**: [Link](https://datasets.simula.no/kvasir-seg/) 
@@ -20,6 +20,8 @@ Open the Poly-SAM++.ipynb file in Google Colab and play with it!
 2. [Awesome-Polyp-Segmentation]([https://github.com/YichiZhang98/SAM4MIS](https://github.com/taozh2017/Awesome-Polyp-Segmentation))
 
 ## Acknowledgment - 
+The author would like to extend a heartfelt appreciation to **Luca Medeiros**, the author, and creator of the repository langsegment-anything available at (https://github.com/luca-medeiros/lang-segment-anything). The remarkable work done by the author
+has been instrumental in making our project possible and has greatly contributed to its success.
 
 ## Contact 
 If you have any question, please feel free to reach out to <a href="mailto:risabbiswas19@gmail.com" target="_blank">Risab Biswas</a>.
