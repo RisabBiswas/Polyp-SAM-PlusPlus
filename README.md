@@ -22,6 +22,7 @@ Open the [Poly-SAM++.ipynb](Polyp-SAM++.ipynb) file in Google Colab and play wit
 2. [Awesome-Polyp-Segmentation](https://github.com/taozh2017/Awesome-Polyp-Segmentation)
 
 ## Citation - 
+```
 @misc{biswas2023polypsam,
       title={Polyp-SAM++: Can A Text Guided SAM Perform Better for Polyp Segmentation?}, 
       author={Risab Biswas},
@@ -30,6 +31,7 @@ Open the [Poly-SAM++.ipynb](Polyp-SAM++.ipynb) file in Google Colab and play wit
       archivePrefix={arXiv},
       primaryClass={eess.IV}
 }
+```
 
 ## Acknowledgment - 
 The author would like to extend a heartfelt appreciation to **Luca Medeiros**, the author, and creator of the repository langsegment-anything available at (https://github.com/luca-medeiros/lang-segment-anything). The remarkable work done by the author
