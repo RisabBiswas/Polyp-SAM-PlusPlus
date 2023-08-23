@@ -1,6 +1,8 @@
 # Polyp-SAM++
 The official PyTorch code for the project [**Polyp-SAM++: Can A Text Guided SAM Perform Better for Polyp Segmentation?**](https://doi.org/10.48550/arXiv.2308.06623). 
 
+**Polyp-SAM++** is the first text-guided polyp-segmentation method using segment anything model(SAM).
+
 ![alt text](Arch_Polyp-SAM++.png?raw=true)
 
 ## Polyp-SAM++ Results 
