@@ -11,9 +11,9 @@ The official PyTorch code for the project [**Polyp-SAM++: Can A Text Guided SAM 
 Open the **Poly-SAM++.ipynb** file in Google Colab and play with it!
 
 ## Dataset -
-**KVASIR-SEG**: [Link](https://datasets.simula.no/kvasir-seg/) 
-**CVC-300**: [Link](https://figshare.com/articles/figure/Polyp_DataSet_zip/21221579)
-**CVC-ClinicDB**: [Link](https://polyp.grand-challenge.org/CVCClinicDB/)
+* **KVASIR-SEG**: [Link](https://datasets.simula.no/kvasir-seg/) 
+* **CVC-300**: [Link](https://figshare.com/articles/figure/Polyp_DataSet_zip/21221579)
+* **CVC-ClinicDB**: [Link](https://polyp.grand-challenge.org/CVCClinicDB/)
 
 ## Additional Resources - 
 1. [Segment Anything Model (SAM) for Medical Image Segmentation.](https://github.com/YichiZhang98/SAM4MIS)
