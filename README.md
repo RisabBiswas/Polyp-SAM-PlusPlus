@@ -17,7 +17,7 @@ Open the **Poly-SAM++.ipynb** file in Google Colab and play with it!
 
 ## Additional Resources - 
 1. [Segment Anything Model (SAM) for Medical Image Segmentation.](https://github.com/YichiZhang98/SAM4MIS)
-2. [Awesome-Polyp-Segmentation]([https://github.com/YichiZhang98/SAM4MIS](https://github.com/taozh2017/Awesome-Polyp-Segmentation))
+2. [Awesome-Polyp-Segmentation](https://github.com/taozh2017/Awesome-Polyp-Segmentation)
 
 ## Acknowledgment - 
 The author would like to extend a heartfelt appreciation to **Luca Medeiros**, the author, and creator of the repository langsegment-anything available at (https://github.com/luca-medeiros/lang-segment-anything). The remarkable work done by the author
